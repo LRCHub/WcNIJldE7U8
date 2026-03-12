@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヒトリシズカ(with senya) <幻想万華鏡 第2話EDテーマ>",
+  "base_artist": "幽閉サテライト",
+  "createdAt": "2026-03-12T11:45:58.680109Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒトリシズカ",
+      "artist": "senya",
+      "has_synced": false,
+      "path": "select/pl_01_ヒトリシズカ_senya.txt"
+    }
+  ]
+}
